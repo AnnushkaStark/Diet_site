@@ -205,10 +205,40 @@ body{
 }
 
 
+.h_second {
+       text-align: center;
+       font-style: italic;
+       color: rgb(190, 168, 134);
+       font-size: 40px;
+	text-shadow: rgba(48, 36, 116, 0.5) 1px 0px 3px;
+}
 
+           
+.submit {text-align: center;
+       font-style: italic;
+       color: rgb(190, 168, 134);
+       font-size: 25px;
+	text-shadow: rgba(48, 36, 116, 0.5) 1px 0px 3px;
+       border-radius: 25px;
+       padding-top: 15px;
+       padding-left: 15px;
+       padding-right: 15px;
+       padding-bottom: 15px;
+       margin-top: 25px;
+}
 
-
-
+.btn {text-align: center;
+       font-style: italic;
+       color: rgb(190, 168, 134);
+       font-size: 25px;
+	text-shadow: rgba(48, 36, 116, 0.5) 1px 0px 3px;
+       background-color: #948445;
+       border-radius: 25px;
+       padding-top: 15px;
+       padding-left: 15px;
+       padding-right: 15px;
+       padding-bottom: 15px;
+       margin-top: 25px;}
 
 
 
