@@ -329,5 +329,8 @@ body{
 
 
     
-
+.chat-area{text-align: center;
+    border-color: #948445;
+    margin: 30px;
+    border-radius: 30px;}
      

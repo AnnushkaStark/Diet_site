@@ -24,11 +24,16 @@
                 <br>
                 <h2 class = "h_second">Рассчитать IMT?</h2>
                 <br>
-                <form class = "h_second"  action="/submit" method="POST">
-                    <input class = "submit" type = "text" id = "height" placeholder = "Ваш вес в кг">
-                    <input class = "submit" type = "text" id = "weight" placeholder = "Ваш рост в см">
-                    <input class = "btn" type ="submit" id = "count">
+                <form class = "h_second"  id = "calculator__form">
+                    <input class = "submit" type = "text" id = "calculator__input-massa" placeholder = "Ваш вес в кг">
+                    <input class = "submit" type = "text" id = "calculator__input-height" placeholder = "Ваш рост в см">
+                    <input class = "btn" type ="submit">
                 </form>
+                <div class="submit">
+                    <p id="calculator__message-result"></p>
+                    <p id="calculator__message-status"></p>
+                  </div>
+                </div>
             </div>
         </main>
         <footer class="footer">
@@ -43,7 +48,8 @@
             </div>
         </footer>
     </div>
-        
+    
+    <script src="main.js"></script>
     </body>
     </html>
     
