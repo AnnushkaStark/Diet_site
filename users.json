@@ -1,0 +1,24 @@
+{
+  "users_list": {
+    "users": [
+      {
+        "id": "1",
+        "name": "Иван",
+        "surname": "Иванов",
+        "patronymic": "Иванович",
+        "birthdate": "01.01.1990",
+        "birthplace": "Москва",
+        "phone": "8 926 766 48 48"
+      },
+      {
+        "id": "2",
+        "name": "Петр",
+        "surname": "Петров",
+        "patronymic": "Петрович",
+        "birthdate": "02.02.1990",
+        "birthplace": "Москва",
+        "phone": "8 926 766 58 58"
+      }
+    ]
+  }
+}
